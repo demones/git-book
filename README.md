@@ -14,3 +14,4 @@
 * 把 检索文件 index.html 改成 retrieve.html
 * 把 cover.html 改成首页 index.html
 * 把 1-git-commands.html 中 之前的链接 index.html 调整为 retrieve.html
+* toc.html 中 修改之前的检索链接，把 index.html 改成 retrieve.html
